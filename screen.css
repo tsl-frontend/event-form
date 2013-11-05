@@ -11,20 +11,7 @@ body {
 
 .input-wrap {
     position: relative;
-    max-width: 800px;
-    border: 1px solid black;
-}
-
-.input-wrap label {
-    /*position: absolute;*/
-    width: 25%;
-    line-height: 1;
-}
-
-.input-wrap input[type=text] {
-    /*border: 1px solid green;*/
-    border: none;
-    width: 73%;
+    width: 600px;
 }
 
 .help {
